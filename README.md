@@ -4,7 +4,7 @@ Este es mi portafolio web creado como parte del programa **ONE (Oracle Next Educ
 Fue desarrollado utilizando **HTML, CSS y diseño responsivo**, basado en un esquema entregado en **Figma** y bajo la tutoría de **Alura Latam**.  
 
 📌 **🌐 Ver el proyecto en línea:**  
-👉 **[GitHub Pages](TU_ENLACE_AQUI)**  
+👉 **[GitHub Pages](https://gustav0-ri0s.github.io/ejemplo-portafolio/)**  
 👉 **[Vercel app](https://ejemplo-portafolio-agexkby30-gustavos-projects-1a84d6a2.vercel.app/)**  
 
 
@@ -40,7 +40,7 @@ Fue desarrollado utilizando **HTML, CSS y diseño responsivo**, basado en un esq
 
 Este portafolio fue desarrollado como parte del curso de **Desarrollo Web con HTML y CSS** en **Alura Latam** dentro del programa **Oracle Next Education (ONE)**.  
 
-📜 **[Ver mi certificado aquí](#)** 
+📜 **[Ver mi certificado aquí](https://app.aluracursos.com/certificate/fb844f76-61ae-4b1b-a6fb-e59e707e3877)** 
 
 ---
 
